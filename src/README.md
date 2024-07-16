@@ -1,4 +1,4 @@
-# Research on Blood Pressure Measurement based on Wrist Pressure Method
+# Research on Blood Pressure Measurement by Wrist Pressure Method
 
 # Hardware
 
